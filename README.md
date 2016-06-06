@@ -17,7 +17,11 @@ npm install
 Then you will need to install bower and run:
 
 ```shell
-bower install
+npm install -g bower
+```
+Then install grunt:
+```shell
+npm install -g grunt
 ```
 
 Finally to run a server locally, you can run:
