@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {
+    "imagemin-gifsicle": "^2.0.0",
+    "imagemin-jpegtran": "^2.0.0",
+    "imagemin-optipng": "^2.0.1",
+    "imagemin-svgo": "^2.0.0",
     "grunt": "~0.4.1",
     "grunt-contrib-copy": "~0.5.0",
     "grunt-contrib-concat": "~0.3.0",
